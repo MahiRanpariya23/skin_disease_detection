@@ -23,21 +23,27 @@ Step 1: Clone the repository
         cd skin_disease_detection
 
 Step 2: Create virtual environment
+       
         python -m venv .venv
 
 Step 3: Activate environment
+       
         .venv\Scripts\activate
 
 Step 4: Install dependencies
+       
         pip install -r requirements.txt
 
 Step 5: Prepare dataset
+       
         python prepare_dataset.py
 
 Step 6: Train the model
+      
         python train.py
 
 Step 7: Run the app
+       
         streamlit run app.py
 
 📂 Dataset
