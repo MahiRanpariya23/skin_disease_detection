@@ -19,7 +19,7 @@ This project is a deep learning-based web application that detects skin diseases
 
 Step 1: Clone the repository
        
-        git clone https://github.com/aasthasadhu/smart_travel_webapp.git
+        git clone https://github.com/MahiRanpariya23/skin_disease_detection
         cd skin_disease_detection
 
 Step 2: Create virtual environment
