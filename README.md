@@ -18,6 +18,7 @@ This project is a deep learning-based web application that detects skin diseases
 ▶️ How to Run the Project
 
 Step 1: Clone the repository
+       
         git clone <repo-link>
         cd skin_disease_detection
 
